@@ -1,6 +1,8 @@
 # hexo-bilibili-card
 A hexo plugin insert a bilibili card into your page or article, some of css code is copy from bilibili.
 
+> 个人使用修改版：css 需要自己插入， 其它和原版一样！方便性能优化。
+
 一个Hexo插件，在你的文章中插入b站的视频卡片，样式模仿和借鉴自b站。
 
 [![NPM](https://nodei.co/npm/hexo-bilibili-card.png)](https://nodei.co/npm/hexo-bilibili-card/)

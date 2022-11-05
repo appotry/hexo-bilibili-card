@@ -15,5 +15,6 @@ hexo.extend.tag.register("bilicard", async (args) => {
 }, { async: true });
 
 hexo.extend.injector.register('head_begin', () => {
-  return css('/css/bilicard.css');
+  return;
+  //return css('/css/bilicard.css');
 }, 'post')
